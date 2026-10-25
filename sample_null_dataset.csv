@@ -1,0 +1,11 @@
+Name,Age,Salary,Experience_Years,Department,City,Purchased
+Amit,25,50000,,IT,Delhi,Yes
+Pooja,,64000,4,HR,Mumbai,No
+Rahul,29,,6,,Bangalore,No
+Sneha,35,85000,,Finance,,Yes
+Vikas,,62000,3,IT,Delhi,
+Neha,22,,1,Marketing,,Yes
+Rohan,38,95000,,,Pune,No
+Priya,27,58000,4,HR,Mumbai,
+Karan,,72000,7,IT,Delhi,Yes
+Anjali,31,,5,Finance,Bangalore,Yes
